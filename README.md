@@ -31,14 +31,14 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 
 
 
-⚙️ Installation & Setup
+## Installation & Setup
 
 - git clone https://github.com/your-username/tomato-food-delivery.git
 - cd tomato-food-delivery
 - npm install
 -  npm run dev
 
-🎯 Learning Outcomes
+## Learning Outcomes
 
 - Built real-world frontend architecture
 
@@ -50,7 +50,7 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 
 - Practiced professional Git workflow & deployment
 
-📌 Future Improvements
+## Future Improvements
 
 - Backend integration using Node.js & Express
 
