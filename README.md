@@ -5,7 +5,6 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 
 ## Live Demo - https://tomato-food-delivery-sigma.vercel.app/
 <br/>
-
 ## Features
 - Browse food categories and menu items  
 - Add to cart with quantity control  
@@ -14,7 +13,6 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 - Responsive design for all devices  
 - Smooth UI animations  
 <br/><br/>
-
 ## Tech Stack
 - React.js
 
