@@ -39,7 +39,7 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 - cd tomato-food-delivery
 - npm install
 -  npm run dev
-- <br/><br/>
+   br/><br/>
 
 ## Learning Outcomes
 
