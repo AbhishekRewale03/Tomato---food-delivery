@@ -4,7 +4,7 @@ A modern and fully responsive food delivery frontend built using React and plain
 This project focuses on UI/UX design, cart state management, filtering logic, and real-world app flows without any backend.
 
 ## Live Demo - https://tomato-food-delivery-sigma.vercel.app/
-<br/><br/>
+<br/>
 
 ## Features
 - Browse food categories and menu items  
