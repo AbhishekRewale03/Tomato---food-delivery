@@ -4,6 +4,7 @@ A modern and fully responsive food delivery frontend built using React and plain
 This project focuses on UI/UX design, cart state management, filtering logic, and real-world app flows without any backend.
 
 ## Live Demo - https://tomato-food-delivery-sigma.vercel.app/
+<br/><br/>
 
 ## Features
 - Browse food categories and menu items  
@@ -12,6 +13,7 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 - Search and category filtering  
 - Responsive design for all devices  
 - Smooth UI animations  
+<br/><br/>
 
 ## Tech Stack
 - React.js
@@ -27,7 +29,7 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 - Git & GitHub
 
 - Vercel (Deployment)
-
+<br/><br/>
 
 
 
@@ -37,6 +39,7 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 - cd tomato-food-delivery
 - npm install
 -  npm run dev
+- <br/><br/>
 
 ## Learning Outcomes
 
@@ -49,7 +52,7 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 - Learned how production apps handle state & UI flow
 
 - Practiced professional Git workflow & deployment
-
+<br/><br/>
 ## Future Improvements
 
 - Backend integration using Node.js & Express
