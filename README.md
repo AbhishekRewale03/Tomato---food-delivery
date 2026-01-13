@@ -12,19 +12,19 @@ This project focuses on UI/UX design, cart state management, filtering logic, an
 - Smooth UI animations  
 
 ## Tech Stack
-• React.js
+- React.js
 
-• JavaScript (ES6+)
+- JavaScript (ES6+)
 
-• HTML5
+- HTML5
 
-• CSS3 / Tailwind CSS
+- CSS3 / Tailwind CSS
 
-• React Router
+- React Router
 
-• Git & GitHub
+- Git & GitHub
 
-• Vercel (Deployment)
+- Vercel (Deployment)
 
 
 🍅 Tomato – Food Delivery Frontend
